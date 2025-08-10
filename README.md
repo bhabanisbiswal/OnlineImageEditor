@@ -116,10 +116,16 @@ http://127.0.0.1:5001
 
 *
 *Project Frame
+
 ![img_alt](https://github.com/bhabanisbiswal/OnlineImageEditor/blob/de233f492e2a66f9f324d2eae6dbfbf58579924f/project_image1.png).
 ![img_alt](https://github.com/bhabanisbiswal/OnlineImageEditor/blob/de233f492e2a66f9f324d2eae6dbfbf58579924f/project_image2.png).
 
+*sample input 
+
+![img_alt](https://github.com/bhabanisbiswal/OnlineImageEditor/blob/0b834b62827c22585cf1ffb031ac154efaeac4c6/uploads/vlcsnap-2025-01-03-21h17m03s144.png)
+
 *Sample Output
+
 ![img_alt](https://github.com/bhabanisbiswal/OnlineImageEditor/blob/de233f492e2a66f9f324d2eae6dbfbf58579924f/output.png).
 
 
