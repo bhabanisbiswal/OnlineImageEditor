@@ -54,12 +54,14 @@ OnlineImageEditor/
 ## ⚙ How It Works
 
 1️⃣ **Upload** an image using the web form.
+
 2️⃣ Choose a processing option:
 
 * `cgray` → Grayscale
 * `cwebp` → Convert to WEBP
 * `cjpg` → Convert to JPG
 * `cpng` → Convert to PNG
+* 
   3️⃣ **Processed image** is saved in `static/` folder with a **direct download link**.
 
 ---
