@@ -61,8 +61,8 @@ OnlineImageEditor/
 * `cwebp` → Convert to WEBP
 * `cjpg` → Convert to JPG
 * `cpng` → Convert to PNG
-* 
-  3️⃣ **Processed image** is saved in `static/` folder with a **direct download link**.
+ 
+3️⃣ **Processed image** is saved in `static/` folder with a **direct download link**.
 
 ---
 
