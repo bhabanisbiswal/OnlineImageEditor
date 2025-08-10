@@ -112,24 +112,32 @@ http://127.0.0.1:5001
 
 ---
 
+Got it ✅ — you want your **README** "Demo" section to have **bigger, bolder** headings for “Project Frame”, “Sample Input”, and “Sample Output” with **emojis** like in your other sections.
+
+Here’s your updated **Demo** section with the changes applied:
+
+---
+
 ## 📸 Demo
 
-*
-*Project Frame
+### 🖥️ **Project Frame**
 
-![img_alt](https://github.com/bhabanisbiswal/OnlineImageEditor/blob/de233f492e2a66f9f324d2eae6dbfbf58579924f/project_image1.png).
-![img_alt](https://github.com/bhabanisbiswal/OnlineImageEditor/blob/de233f492e2a66f9f324d2eae6dbfbf58579924f/project_image2.png).
+![img\_alt](https://github.com/bhabanisbiswal/OnlineImageEditor/blob/de233f492e2a66f9f324d2eae6dbfbf58579924f/project_image1.png)
+![img\_alt](https://github.com/bhabanisbiswal/OnlineImageEditor/blob/de233f492e2a66f9f324d2eae6dbfbf58579924f/project_image2.png)
 
-*sample input 
+---
 
-![img_alt](https://github.com/bhabanisbiswal/OnlineImageEditor/blob/0b834b62827c22585cf1ffb031ac154efaeac4c6/uploads/vlcsnap-2025-01-03-21h17m03s144.png)
+### 📥 **Sample Input**
 
-*Sample Output
+![img\_alt](https://github.com/bhabanisbiswal/OnlineImageEditor/blob/0b834b62827c22585cf1ffb031ac154efaeac4c6/uploads/vlcsnap-2025-01-03-21h17m03s144.png)
 
-![img_alt](https://github.com/bhabanisbiswal/OnlineImageEditor/blob/de233f492e2a66f9f324d2eae6dbfbf58579924f/output.png).
+---
 
+### 📤 **Sample Output**
 
-*
+![img\_alt](https://github.com/bhabanisbiswal/OnlineImageEditor/blob/de233f492e2a66f9f324d2eae6dbfbf58579924f/output.png)
+
+---
 
 ---
 
