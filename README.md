@@ -129,7 +129,7 @@ http://127.0.0.1:5001
 
 ---
 
-### 📤 **Sample Output** *GrayScale
+### 📤 **Sample Output** 
 
 ![img\_alt](https://github.com/bhabanisbiswal/OnlineImageEditor/blob/de233f492e2a66f9f324d2eae6dbfbf58579924f/output.png)
 
