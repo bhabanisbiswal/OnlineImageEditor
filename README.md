@@ -112,10 +112,6 @@ http://127.0.0.1:5001
 
 ---
 
-Got it ✅ — you want your **README** "Demo" section to have **bigger, bolder** headings for “Project Frame”, “Sample Input”, and “Sample Output” with **emojis** like in your other sections.
-
-Here’s your updated **Demo** section with the changes applied:
-
 ---
 
 ## 📸 Demo
@@ -133,7 +129,7 @@ Here’s your updated **Demo** section with the changes applied:
 
 ---
 
-### 📤 **Sample Output**
+### 📤 **Sample Output** *GrayScale
 
 ![img\_alt](https://github.com/bhabanisbiswal/OnlineImageEditor/blob/de233f492e2a66f9f324d2eae6dbfbf58579924f/output.png)
 
