@@ -151,7 +151,9 @@ http://127.0.0.1:5001
 ## 👤 Author
 
 **Bhabani S Biswal** – Python & AI/ML Developer
+
 📧 Email: [bhabanibiswalb17@gmail.com](mailto:bhabanibiswalb17@gmail.com)
+
 🔗 GitHub: [Bhabani S Biswal](https://github.com/bhabanisbiswal)
 
 ---
